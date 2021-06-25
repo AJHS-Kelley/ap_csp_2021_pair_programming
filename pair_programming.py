@@ -12,9 +12,14 @@
 programmer1_name = "Type Your Name Here"
 programmer2_name = "Type Your Name Here"
 
+# On the next two lines, each programmer should use print() to display their name on the screen.
+
 # Programmer #1 edit this comment to indicate your FAVORITE FOOD and NON-ALCOHOLIC DRINK.
 # Programmer #2 edit this comment to indicate your FAVORITE FOOD and NON-ALCOHOLIC DRINK.
 
 
-# The next two lines declare variables named x and y.  
-# Test
+# The next two lines declare variables named x and y.  Assign x the integer value 10 and y the integer value 20. 
+x
+y 
+
+
