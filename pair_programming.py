@@ -18,8 +18,11 @@ programmer2_name = "Type Your Name Here"
 # Programmer #2 edit this comment to indicate your FAVORITE FOOD and NON-ALCOHOLIC DRINK.
 
 
-# The next two lines declare variables named x and y.  Assign x the integer value 10 and y the integer value 20. 
-x
-y 
+# On line 22 declare a variable named x and assign it a value of 10.  On line 23 declare a variable named y and assign a value of 3.14
+
+
+# x has been assigned an INTEGER (written as int in Python) data type.  Y has been assigned a FLOAT (written as float) data type.
+
+# On Line 27, print out the result of (x + y) multiplied by -1.  On Line 28, print out the result of (x - y) multiplied by 1.
 
 
